@@ -1,4 +1,4 @@
-# FullStack-Microservices-architecture
+# FullStack-Microservices-Architecture
 
 This repository contains multiple fullstack and microservices-based applications.
 
